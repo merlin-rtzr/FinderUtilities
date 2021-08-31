@@ -7,7 +7,7 @@ FinderUtilities is a macOS App Extension (Finder Extension), which enables you t
 For yet unknown reasons (related to PPPC / access to user folders) macOS Catalina seems to require FinderUtilities to have Full Disk Access rights in order to launch Terminal window to user's directories.
 
 ## How to install FinderUtilities
-Just download the application from releses (or compile it from the sources), copy it to your /Applications directory and run it once to install the containing Finder Extension. The first time you run the application, it opens up System Preferences > Extensions so that you can enable it. See the picture below:
+Just download the application from releases (or compile it from the sources), copy it to your /Applications directory and run it once to install the containing Finder Extension. The first time you run the application, it opens up System Preferences > Extensions so that you can enable it. See the picture below:
 
 <img src="https://github.com/suolapeikko/suolapeikko.github.io/blob/master/images/finderutilities_sysprefextensions.png" width="600">
 
